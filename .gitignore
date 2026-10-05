@@ -1,0 +1,14 @@
+# Original papers, slides, personal data and local environments
+*.pdf
+*.ppt
+*.pptx
+*.zip
+data/raw/
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Thumbs.db
+Desktop.ini
